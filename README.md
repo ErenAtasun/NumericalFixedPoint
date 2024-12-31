@@ -1,7 +1,14 @@
-Fixed Point Iteration with JSON Input and Output
-Project Description
-This project implements the Fixed Point Iteration method to find the root of a function. It accepts user input in the form of a JSON file, including the function, initial guess, tolerance value, and maximum number of iterations. The results are written to an output JSON file. The project aims to simplify mathematical computations and present results in a programmatically accessible format.
+#📐 Fixed Point Iteration with JSON Input and Output
+A Python implementation of the Fixed Point Iteration method for solving equations, with an intuitive workflow for JSON-based input and output. This project simplifies mathematical computations and presents results in a programmatically accessible format.
 
-Technologies and Tools Used
-Python: The project is written in Python.
-JSON: Input and output data are handled in JSON format.
+📝 Project Overview
+The Fixed Point Iteration method is used to approximate the roots of equations. This project:
+
+Reads input parameters (function, initial guess, tolerance, etc.) from a JSON file.
+Performs the iteration and computes results.
+Writes detailed iteration results and final output into a JSON file for easy interpretation and usage.
+💻 Features
+JSON-based Input/Output: Simplifies parameter setup and results retrieval.
+Error Tracking: Tracks and outputs the error after each iteration.
+Convergence Check: Indicates whether the solution meets the given tolerance.
+Detailed Iteration Logs: Saves all intermediate steps for analysis.
