@@ -12,7 +12,7 @@ JSON-based Input/Output: Simplifies parameter setup and results retrieval.
 Error Tracking: Tracks and outputs the error after each iteration.
 Convergence Check: Indicates whether the solution meets the given tolerance.
 Detailed Iteration Logs: Saves all intermediate steps for analysis.
-![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20001912.png](https://github.com/ErenAtasun/NumericalFixedPoint/blob/main/Images/output_plot.png))
-![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20001926.png](https://github.com/ErenAtasun/NumericalFixedPoint/blob/main/Images/screenshot.png))
-![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20002021.png](https://github.com/ErenAtasun/NumericalFixedPoint/blob/main/Images/screenshot1.png))
-![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20002038.png](https://github.com/ErenAtasun/NumericalFixedPoint/blob/main/Images/screenshot2.png))
+![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20001912.png])
+![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20001926.png])
+![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20002021.png])
+![Kapak]([https://github.com/ErenAtasun/SubwaySurfersClone/blob/main/Assets/Character/textures/Ekran%20görüntüsü%202024-10-28%20002038.png])
