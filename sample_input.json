@@ -1,0 +1,6 @@
+{
+    "function": "cos(x)",
+    "initial_guess": 0.5,
+    "tolerance": 1e-06,
+    "max_iterations": 100
+}
