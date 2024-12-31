@@ -1,4 +1,4 @@
-#📐 Fixed Point Iteration with JSON Input and Output
+📐 SubwaySurfersCloneFixed Point Iteration with JSON Input and Output
 A Python implementation of the Fixed Point Iteration method for solving equations, with an intuitive workflow for JSON-based input and output. This project simplifies mathematical computations and presents results in a programmatically accessible format.
 
 📝 Project Overview
